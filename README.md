@@ -1,5 +1,6 @@
 dmenu - dynamic menu(Njord build)
 ====================
+![Njord's Logo](NjordLogo.png)
 dmenu is an efficient dynamic menu for X. It is a customized version of 
 dmenu which has a different color palette.
 
