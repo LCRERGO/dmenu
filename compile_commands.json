@@ -1,0 +1,86 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-std=c99",
+            "-pedantic",
+            "-Wall",
+            "-Os",
+            "-I/usr/X11R6/include",
+            "-I/usr/include/freetype2",
+            "-D_DEFAULT_SOURCE",
+            "-D_BSD_SOURCE",
+            "-D_XOPEN_SOURCE=700",
+            "-D_POSIX_C_SOURCE=200809L",
+            "-DVERSION=\"4.9-Njord\"",
+            "-DXINERAMA",
+            "util.c"
+        ],
+        "directory": "/home/lucas/Documentos/Compilation/Suckless/dmenu",
+        "file": "util.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-std=c99",
+            "-pedantic",
+            "-Wall",
+            "-Os",
+            "-I/usr/X11R6/include",
+            "-I/usr/include/freetype2",
+            "-D_DEFAULT_SOURCE",
+            "-D_BSD_SOURCE",
+            "-D_XOPEN_SOURCE=700",
+            "-D_POSIX_C_SOURCE=200809L",
+            "-DVERSION=\"4.9-Njord\"",
+            "-DXINERAMA",
+            "dmenu.c"
+        ],
+        "directory": "/home/lucas/Documentos/Compilation/Suckless/dmenu",
+        "file": "dmenu.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-std=c99",
+            "-pedantic",
+            "-Wall",
+            "-Os",
+            "-I/usr/X11R6/include",
+            "-I/usr/include/freetype2",
+            "-D_DEFAULT_SOURCE",
+            "-D_BSD_SOURCE",
+            "-D_XOPEN_SOURCE=700",
+            "-D_POSIX_C_SOURCE=200809L",
+            "-DVERSION=\"4.9-Njord\"",
+            "-DXINERAMA",
+            "stest.c"
+        ],
+        "directory": "/home/lucas/Documentos/Compilation/Suckless/dmenu",
+        "file": "stest.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-std=c99",
+            "-pedantic",
+            "-Wall",
+            "-Os",
+            "-I/usr/X11R6/include",
+            "-I/usr/include/freetype2",
+            "-D_DEFAULT_SOURCE",
+            "-D_BSD_SOURCE",
+            "-D_XOPEN_SOURCE=700",
+            "-D_POSIX_C_SOURCE=200809L",
+            "-DVERSION=\"4.9-Njord\"",
+            "-DXINERAMA",
+            "drw.c"
+        ],
+        "directory": "/home/lucas/Documentos/Compilation/Suckless/dmenu",
+        "file": "drw.c"
+    }
+]
